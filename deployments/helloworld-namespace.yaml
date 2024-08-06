@@ -1,6 +1,6 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: toolchain-ns
+  name: 662004eek5-se-l3
   labels:
-    name: toolchain-ns
+      deploy.razee.io/mode: "EnsureExists"
